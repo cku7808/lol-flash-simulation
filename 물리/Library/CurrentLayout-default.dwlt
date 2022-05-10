@@ -543,19 +543,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/script
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/script
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\\uCD5C\uBCD1\uC9C4\\Desktop\\\uACE0\uC6B4\\\uBB3C\uB9AC\\\uBB3C\uB9AC"
+  m_LastProjectPath: "C:\\Users\\\uCD5C\uBCD1\uC9C4\\Desktop\\\uACE0\uC6B4\\\uBB3C\uB9AC\\lol-flash-simulation\\\uBB3C\uB9AC"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c0340000
-    m_LastClickedID: 13504
+    m_SelectedIDs: be340000
+    m_LastClickedID: 13502
     m_ExpandedIDs: 00000000a8340000aa340000ac340000ae340000b0340000b234000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -709,7 +709,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 66fbffff
+      m_ExpandedIDs: a0f7ffffc0f7ffffc2f7ffffdef8fffffef8ffffa4f9ffff66fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
